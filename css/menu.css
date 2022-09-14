@@ -1,0 +1,14 @@
+.main-wrapper{
+    height: 100vh;
+}
+.section{
+    margin: 0;
+    height: 100%;
+}
+.logo{
+    font-weight: bold;
+    font-size: 7em;
+}
+.menu a{
+    font-weight: bold
+}
